@@ -1,0 +1,679 @@
+<BORGChat>
+  <Setings>
+    <CurentLanguage>11</CurentLanguage>
+    <Download>
+      <Dir>D:\INSTALADORES\BORGChat (configurado por orlandopf96)\Inbox\</Dir>
+      <Misc>
+        <Option5>True</Option5>
+        <Option1>True</Option1>
+        <Option2>False</Option2>
+        <Option3>False</Option3>
+        <Option4>True</Option4>
+        <Option6>True</Option6>
+        <Option7>True</Option7>
+        <Option8>False</Option8>
+      </Misc>
+      <After>
+        <Option1>False</Option1>
+        <Option2>False</Option2>
+        <Option3>True</Option3>
+        <Option4>False</Option4>
+      </After>
+      <InboxLimit>8</InboxLimit>
+    </Download>
+    <Logs>
+      <Dir>D:\INSTALADORES\BORGChat (configurado por orlandopf96)\Logs\</Dir>
+      <CreateLog1>True</CreateLog1>
+      <CreateLog2>True</CreateLog2>
+      <CreateLog3>True</CreateLog3>
+      <LogOption1>True</LogOption1>
+      <LogOption2>True</LogOption2>
+      <LogSize>1024</LogSize>
+      <CreateLog4>True</CreateLog4>
+    </Logs>
+    <Fonts>
+      <Font9>
+        <Color>-16777211</Color>
+        <Size>8</Size>
+        <Style>False</Style>
+        <Name>Tahoma</Name>
+        <Charset>238</Charset>
+      </Font9>
+      <Font5>
+        <Color>0</Color>
+        <Name>Tahoma</Name>
+        <Size>8</Size>
+        <Style>False</Style>
+        <Charset>238</Charset>
+      </Font5>
+      <Font6>
+        <Color>0</Color>
+        <Name>Tahoma</Name>
+        <Size>8</Size>
+        <Style>False</Style>
+        <Charset>238</Charset>
+      </Font6>
+      <Font10>
+        <Color>-16777211</Color>
+        <Size>8</Size>
+        <Style>False</Style>
+        <Name>Tahoma</Name>
+        <Charset>238</Charset>
+      </Font10>
+      <Font11>
+        <Color>-16777211</Color>
+        <Size>8</Size>
+        <Style>False</Style>
+        <Name>Tahoma</Name>
+        <Charset>238</Charset>
+      </Font11>
+      <Font2>
+        <Name>Tahoma</Name>
+        <Charset>238</Charset>
+        <Color>8388608</Color>
+        <Size>8</Size>
+        <Style>False</Style>
+      </Font2>
+      <Font12>
+        <Color>32768</Color>
+        <Name>Tahoma</Name>
+        <Charset>238</Charset>
+        <Size>8</Size>
+        <Style>False</Style>
+      </Font12>
+      <Font1>
+        <Name>Tahoma</Name>
+        <Charset>238</Charset>
+        <Size>8</Size>
+        <Color>255</Color>
+        <Style>False</Style>
+      </Font1>
+      <Font3>
+        <Color>0</Color>
+        <Size>8</Size>
+        <Style>False</Style>
+        <Name>Tahoma</Name>
+        <Charset>238</Charset>
+      </Font3>
+      <Font4>
+        <Color>32768</Color>
+        <Size>8</Size>
+        <Style>False</Style>
+        <Name>Tahoma</Name>
+        <Charset>238</Charset>
+      </Font4>
+      <Font7>
+        <Color>-16777207</Color>
+        <Size>8</Size>
+        <Style>False</Style>
+        <Name>Tahoma</Name>
+        <Charset>238</Charset>
+      </Font7>
+      <Font8>
+        <Color>-16777214</Color>
+        <Size>8</Size>
+        <Style>False</Style>
+        <Name>Tahoma</Name>
+        <Charset>238</Charset>
+      </Font8>
+      <Font13>
+        <Color>32768</Color>
+        <Size>8</Size>
+        <Style>False</Style>
+        <Name>Tahoma</Name>
+        <Charset>238</Charset>
+      </Font13>
+    </Fonts>
+    <Interface>
+      <ShowAnimatedSmile>True</ShowAnimatedSmile>
+      <ShowIMG>True</ShowIMG>
+      <ShowSmiles>True</ShowSmiles>
+      <SmileLimit>7</SmileLimit>
+      <ShowTime>True</ShowTime>
+      <ShowTimeS>True</ShowTimeS>
+      <ShowTimeN>True</ShowTimeN>
+      <TimeSFormat>[hh:nn]</TimeSFormat>
+      <TimeNFormat>[hh:nn]</TimeNFormat>
+      <ShowIMGLink>True</ShowIMGLink>
+      <ShowQuote>True</ShowQuote>
+      <ShowQuoteTitle>True</ShowQuoteTitle>
+      <QuoteTitle>Quote</QuoteTitle>
+      <ShowQuoteColor>True</ShowQuoteColor>
+      <QuoteColor>12632256</QuoteColor>
+      <ShowHR>True</ShowHR>
+      <UsernameIsLink>True</UsernameIsLink>
+      <ImageNormalSize>True</ImageNormalSize>
+      <ImageWidth>200</ImageWidth>
+      <ImageHeight>0</ImageHeight>
+    </Interface>
+    <General>
+      <DisableNet>False</DisableNet>
+      <ShowInTaskbar>False</ShowInTaskbar>
+      <NickList></NickList>
+      <NickOptions>1</NickOptions>
+      <Magnet>True</Magnet>
+      <TransLevel>5</TransLevel>
+      <HotKey>Shift+Ctrl+C</HotKey>
+      <OpenChat>False</OpenChat>
+      <DefaultGroup>BORGChat</DefaultGroup>
+      <RefreshNetOnConect>False</RefreshNetOnConect>
+      <Avatar>
+        <ShowInUserList>True</ShowInUserList>
+        <ShowInTooltip>True</ShowInTooltip>
+        <ShowInChat>True</ShowInChat>
+        <ShowAvatarUsername>False</ShowAvatarUsername>
+        <MaxSizeInChat>25</MaxSizeInChat>
+        <MaxSizeInList>14</MaxSizeInList>
+        <AllowRefresh>
+          <User name="Orlando_ORLANDO-B44105E">True</User>
+          <User name="CULTIVOS_CULTIVOS">True</User>
+          <User name="Orlando_ORLANDO-PC">True</User>
+        </AllowRefresh>
+        <BlockList>
+          <User name="Orlando_ORLANDO-PC">False</User>
+        </BlockList>
+      </Avatar>
+      <RefreshTime>5</RefreshTime>
+      <DefaultAction>0</DefaultAction>
+      <DefaultNick>-1</DefaultNick>
+      <DisableMain>False</DisableMain>
+    </General>
+    <FtpList>http://borgchat.softnews.ro&#7;https://bit.ly/3sS0WrR</FtpList>
+    <Filters>
+      <UsersList></UsersList>
+      <IpList></IpList>
+      <WordList></WordList>
+      <FilterActive1>True</FilterActive1>
+      <FilterActive2>True</FilterActive2>
+      <FilterActive3>True</FilterActive3>
+      <FilterActive4>True</FilterActive4>
+      <FilterActive5>True</FilterActive5>
+    </Filters>
+    <Modes>
+      <Available>
+        <Msg0/>
+        <Msg1/>
+        <Msg2/>
+        <Msg3/>
+        <Msg4/>
+        <Msg5/>
+        <Msg6/>
+        <Msg7/>
+        <Msg8/>
+        <Msg9/>
+        <Msg10/>
+        <Msg11/>
+        <Msg12/>
+        <Msg13/>
+        <Msg14/>
+        <Msg number="0">Disponible [B] :s101an:</Msg>
+        <Msg number="1"/>
+        <Msg number="2"/>
+        <Msg number="3"/>
+        <Msg number="4"/>
+        <Msg number="5"/>
+        <Msg number="6"/>
+        <Msg number="7"/>
+        <Msg number="8"/>
+        <Msg number="9"/>
+        <Msg number="10"/>
+        <Msg number="11"/>
+        <Msg number="12"/>
+        <Msg number="13"/>
+        <Msg number="14"/>
+      </Available>
+      <Busy>
+        <Msg0/>
+        <Msg1/>
+        <Msg2/>
+        <Msg3/>
+        <Msg4/>
+        <Msg5/>
+        <Msg6/>
+        <Msg7/>
+        <Msg8/>
+        <Msg9/>
+        <Msg10/>
+        <Msg11/>
+        <Msg12/>
+        <Msg13/>
+        <Msg14/>
+        <Msg number="0">Ocupado [B] :s39an:</Msg>
+        <Msg number="1"/>
+        <Msg number="2"/>
+        <Msg number="3"/>
+        <Msg number="4"/>
+        <Msg number="5"/>
+        <Msg number="6"/>
+        <Msg number="7"/>
+        <Msg number="8"/>
+        <Msg number="9"/>
+        <Msg number="10"/>
+        <Msg number="11"/>
+        <Msg number="12"/>
+        <Msg number="13"/>
+        <Msg number="14"/>
+      </Busy>
+      <Away>
+        <Msg0/>
+        <Msg1/>
+        <Msg2/>
+        <Msg3/>
+        <Msg4/>
+        <Msg5/>
+        <Msg6/>
+        <Msg7/>
+        <Msg8/>
+        <Msg9/>
+        <Msg10/>
+        <Msg11/>
+        <Msg12/>
+        <Msg13/>
+        <Msg14/>
+        <Msg number="0">Ausente [B] :s53an:</Msg>
+        <Msg number="1"/>
+        <Msg number="2"/>
+        <Msg number="3"/>
+        <Msg number="4"/>
+        <Msg number="5"/>
+        <Msg number="6"/>
+        <Msg number="7"/>
+        <Msg number="8"/>
+        <Msg number="9"/>
+        <Msg number="10"/>
+        <Msg number="11"/>
+        <Msg number="12"/>
+        <Msg number="13"/>
+        <Msg number="14"/>
+      </Away>
+      <RememberMode>True</RememberMode>
+      <AVLB>
+        <Option1>False</Option1>
+        <Option4>False</Option4>
+        <Option3>False</Option3>
+        <Option2>False</Option2>
+      </AVLB>
+      <BUSY>
+        <Option1>True</Option1>
+        <Option2>False</Option2>
+        <Option3>False</Option3>
+        <Option4>True</Option4>
+      </BUSY>
+      <AWAY>
+        <Option1>False</Option1>
+        <Option2>False</Option2>
+        <Option3>False</Option3>
+        <Option4>False</Option4>
+      </AWAY>
+    </Modes>
+    <OnlineAlerts>
+      <Alert1></Alert1>
+      <Alert2></Alert2>
+      <Alert3></Alert3>
+      <Alert4></Alert4>
+      <Alert5></Alert5>
+      <Alert6></Alert6>
+      <Alert7></Alert7>
+      <Alert8></Alert8>
+      <Alert9></Alert9>
+      <Alert10></Alert10>
+      <Alert11></Alert11>
+      <Alert12></Alert12>
+      <Alert13></Alert13>
+    </OnlineAlerts>
+    <OUTBOX></OUTBOX>
+    <Channels>
+      <FavoriteChannels>0#Games</FavoriteChannels>
+      <ChannelsPasswords>/g==</ChannelsPasswords>
+      <ShowActiveChannels>True</ShowActiveChannels>
+    </Channels>
+    <Connection>
+      <BroadcastList>255.255.255.255</BroadcastList>
+      <Type>0</Type>
+      <UDPPort>7550</UDPPort>
+      <TCPPort>7551</TCPPort>
+      <Binding>0.0.0.0</Binding>
+      <MulticastGroup>231.0.0.1</MulticastGroup>
+      <MulticastTTL>3</MulticastTTL>
+    </Connection>
+    <TrayIcon>
+      <Icon>0</Icon>
+      <FlashWindow>True</FlashWindow>
+      <HideTrayIcon>False</HideTrayIcon>
+      <Option4>True</Option4>
+      <OnlyInBack>True</OnlyInBack>
+      <Option1>True</Option1>
+      <Option2>True</Option2>
+      <Option3>True</Option3>
+      <Option5>True</Option5>
+      <Option6>True</Option6>
+      <Option7>True</Option7>
+      <Option8>True</Option8>
+      <Option9>True</Option9>
+      <Option10>True</Option10>
+      <Option11>True</Option11>
+      <Option12>True</Option12>
+      <Option13>True</Option13>
+      <Option14>True</Option14>
+      <Option15>True</Option15>
+      <Option16>True</Option16>
+      <Option17>True</Option17>
+    </TrayIcon>
+    <OldMode>1</OldMode>
+    <OldModeMessage>Disponible [B] :s101an:</OldModeMessage>
+    <Messages>
+      <InterceptMessenger>True</InterceptMessenger>
+      <BringChatToFront3>False</BringChatToFront3>
+      <BaloonTime>5</BaloonTime>
+      <SingleClick>False</SingleClick>
+      <SendPrivateText>False</SendPrivateText>
+      <ShowSentPM>True</ShowSentPM>
+      <ShowMessageDelimiter>True</ShowMessageDelimiter>
+      <PrivateMessagePlace>5</PrivateMessagePlace>
+      <BlockMessagesOlderThan>0</BlockMessagesOlderThan>
+      <IgnoreMassMessages>False</IgnoreMassMessages>
+      <InvertSendMessages>False</InvertSendMessages>
+      <BringChatToFront1>False</BringChatToFront1>
+      <BringChatToFront2>False</BringChatToFront2>
+      <BringChatToFront4>True</BringChatToFront4>
+      <KeepMaxChatLines>200</KeepMaxChatLines>
+    </Messages>
+    <DateMessage>08.21.2005 13:31:54</DateMessage>
+    <Message/>
+    <Systemmessages>
+      <Message1>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message1>
+      <enableBaloons>True</enableBaloons>
+      <Message2>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message2>
+      <Message3>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message3>
+      <Message4>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message4>
+      <Message5>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message5>
+      <Message6>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message6>
+      <Message7>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message7>
+      <Message8>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message8>
+      <Message9>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message9>
+      <Message10>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message10>
+      <Message11>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message11>
+      <Message12>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message12>
+      <Message13>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message13>
+      <Message14>
+        <show>True</show>
+        <baloon>True</baloon>
+      </Message14>
+    </Systemmessages>
+    <Sounds>
+      <SoundToOwnMsg>True</SoundToOwnMsg>
+      <OnlyInBack>False</OnlyInBack>
+      <Sound4>
+        <Enabled>3</Enabled>
+        <BeepMsec>50</BeepMsec>
+        <BeepHZ>500</BeepHZ>
+        <Wave/>
+      </Sound4>
+      <Sound1>
+        <Wave>C:\WINDOWS\Media\start.wav</Wave>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>0</Enabled>
+      </Sound1>
+      <Sound2>
+        <Wave>C:\WINDOWS\Media\ringin.wav</Wave>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>3</Enabled>
+      </Sound2>
+      <Sound3>
+        <Wave>C:\WINDOWS\Media\ringout.wav</Wave>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>3</Enabled>
+      </Sound3>
+      <Sound5>
+        <Wave/>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>2</Enabled>
+      </Sound5>
+      <Sound6>
+        <Wave/>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>2</Enabled>
+      </Sound6>
+      <Sound7>
+        <Wave/>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>2</Enabled>
+      </Sound7>
+      <Sound8>
+        <Wave/>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>2</Enabled>
+      </Sound8>
+      <Sound9>
+        <Wave/>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>2</Enabled>
+      </Sound9>
+      <Sound10>
+        <Wave/>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>2</Enabled>
+      </Sound10>
+      <Sound11>
+        <Wave/>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>2</Enabled>
+      </Sound11>
+      <Sound12>
+        <Wave/>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>2</Enabled>
+      </Sound12>
+      <Sound13>
+        <Wave/>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>3</Enabled>
+      </Sound13>
+      <Sound14>
+        <Wave>C:\WINDOWS\Media\Windows XP Ding.wav</Wave>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>3</Enabled>
+      </Sound14>
+      <Sound15>
+        <Wave/>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>2</Enabled>
+      </Sound15>
+      <Sound16>
+        <Wave/>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>2</Enabled>
+      </Sound16>
+      <Sound17>
+        <Wave/>
+        <BeepHZ>500</BeepHZ>
+        <BeepMsec>50</BeepMsec>
+        <Enabled>2</Enabled>
+      </Sound17>
+    </Sounds>
+    <IgnoreList1>
+      <User name="Orlando_ORLANDO-B44105E_Orlando">False</User>
+      <User name="Administrador_CITRIX_Administrador">False</User>
+      <User name="Orlando_ORLANDO-PC_Orlando">False</User>
+      <User name="Administrador_PDIRECCION_Administrador">False</User>
+      <User name="PDIRECCION_PDIRECCION_Administrador">False</User>
+    </IgnoreList1>
+    <IgnoreList2>
+      <User name="Orlando_ORLANDO-B44105E_Orlando">False</User>
+      <User name="CULTIVOS_CULTIVOS_Administrador">False</User>
+      <User name="Administrador_CITRIX_Administrador">False</User>
+      <User name="Orlando_ORLANDO-PC_Orlando">False</User>
+      <User name="Administrador_PDIRECCION_Administrador">False</User>
+      <User name="PDIRECCION_PDIRECCION_Administrador">False</User>
+    </IgnoreList2>
+  </Setings>
+  <WindowsSettings>
+    <MainWnd>
+      <MessageSort>0</MessageSort>
+      <MessageSortType>True</MessageSortType>
+      <MessageBoardEnabled>True</MessageBoardEnabled>
+      <Top>59</Top>
+      <Left>226</Left>
+      <Width>652</Width>
+      <Height>404</Height>
+      <ListWidth>445</ListWidth>
+      <EditorHeight>312</EditorHeight>
+      <InboxHeight>234</InboxHeight>
+      <FtpHeight>264</FtpHeight>
+      <ListIndex>0</ListIndex>
+      <InboxIndex>0</InboxIndex>
+      <Toolbarmaximize>True</Toolbarmaximize>
+      <ScanFtp>1</ScanFtp>
+      <MuteSound>False</MuteSound>
+      <Transparent>False</Transparent>
+      <Alwaysontop>False</Alwaysontop>
+      <Sorttype>0</Sorttype>
+      <Maximized>False</Maximized>
+      <ToolbarPosition>0</ToolbarPosition>
+      <TabsPosition>0</TabsPosition>
+      <UserListPosition>0</UserListPosition>
+      <CompactMode>False</CompactMode>
+    </MainWnd>
+    <SmileWnd>
+      <CatPositions>000000</CatPositions>
+      <ShowMenu>True</ShowMenu>
+      <AutoMove>False</AutoMove>
+      <ShowHidden>False</ShowHidden>
+      <Animate>True</Animate>
+      <EnableSmileSounds>True</EnableSmileSounds>
+      <CatCollapsed>
+        <Category name="General">False</Category>
+        <Category name="Angry or Violent">False</Category>
+        <Category name="Cool">False</Category>
+        <Category name="Signs">False</Category>
+        <Category name="Busy">False</Category>
+        <Category name="People">False</Category>
+        <Category name="1. Best 1">False</Category>
+        <Category name="2. Best 2">False</Category>
+        <Category name="3. Best 3">False</Category>
+        <Category name="4. Good">False</Category>
+        <Category name="5. General">False</Category>
+        <Category name="6. Cool">False</Category>
+        <Category name="7. I Like to Moving!">False</Category>
+        <Category name="8. Shocked!">False</Category>
+        <Category name="9. Angry And Evil!">False</Category>
+        <Category name="10. In Love">False</Category>
+        <Category name="11. Group">False</Category>
+        <Category name="12. Banners!">False</Category>
+        <Category name="13. Signs">False</Category>
+        <Category name="14. Busy">False</Category>
+        <Category name="15. People">False</Category>
+        <Category name="16. Special 1">False</Category>
+        <Category name="17. Special 2">False</Category>
+        <Category name="18. Special 3">True</Category>
+      </CatCollapsed>
+    </SmileWnd>
+    <SmileEditorWnd>
+      <Top>100</Top>
+      <Left>100</Left>
+      <Width>500</Width>
+      <Height>500</Height>
+      <Animate>False</Animate>
+    </SmileEditorWnd>
+    <OptionsWnd>
+      <Top>105</Top>
+      <Left>188</Left>
+    </OptionsWnd>
+    <PrivateMessageSendWnd>
+      <Top>100</Top>
+      <Left>100</Left>
+      <Width>350</Width>
+      <Height>200</Height>
+    </PrivateMessageSendWnd>
+    <InsertQuoteWnd>
+      <Width>300</Width>
+      <Height>100</Height>
+    </InsertQuoteWnd>
+    <UserInfoWnd>
+      <Top>67</Top>
+      <Left>525</Left>
+      <GetMacAddress>False</GetMacAddress>
+      <ActiveTab>0</ActiveTab>
+      <MyInfo>
+        <Name1/>
+        <Name2/>
+        <Phone/>
+        <Fax/>
+        <Email/>
+        <Web/>
+        <Obs/>
+      </MyInfo>
+    </UserInfoWnd>
+  </WindowsSettings>
+  <MainWnd>
+    <ToolbarPosition>0</ToolbarPosition>
+    <TabsPosition>0</TabsPosition>
+    <UserListPosition>0</UserListPosition>
+  </MainWnd>
+  <Groups>
+    <Users>
+      <User name="Orlando_ORLANDO-B44105E">BORGChat</User>
+      <User name="Administrador_CITRIX">BORGChat</User>
+      <User name="Orlando_ORLANDO-PC">BORGChat</User>
+      <User name="Administrador_PDIRECCION">BORGChat</User>
+      <User name="PDIRECCION_PDIRECCION">BORGChat</User>
+    </Users>
+    <Expand>
+      <Group name="BORGChat">True</Group>
+    </Expand>
+  </Groups>
+</BORGChat>
