@@ -1,5 +1,6 @@
 # **orlandopf96_BORGChat**
 
+![Screenshot](/PICTURES/imagen.jpg)
 
 ## 🛠️ **orlandopf96**
 Contenido libre de virus analizado con Windows Defender y probados en los laboratorios de orlandopf96 © 2025
